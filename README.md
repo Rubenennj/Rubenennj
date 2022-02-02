@@ -1,16 +1,14 @@
-### Hi there 👋
+# About Me!
+Idk what to say here :lmao:
 
-<!--
-**Rubenennj/Rubenennj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Discord
 
-Here are some ideas to get you started:
+![](https://discord.c99.nl/widget/theme-3/739591551155437654.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=Ohnezahn-ZAE&count_private=true&show_icons=true&theme=radical)
+
+## Top Languages  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenennj)](https://github.com/rubenennj/github-readme-stats)
+
+Thanks [Ohnezahn](https://github.com/Ohnezahn-ZAE) for this cute profile
